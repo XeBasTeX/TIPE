@@ -1,5 +1,10 @@
 # TIPE - Spectral methods
 
+[![](https://img.shields.io/badge/donate-paypal-46AFE0.svg)](https://www.paypal.me/bastienlaville)
+![](https://img.shields.io/github/release-pre/XeBasTeX/TIPE.svg)
+![](https://img.shields.io/github/license/XeBasTeX/TIPE.svg)
+![](https://img.shields.io/github/languages/code-size/XeBasTeX/TIPE.svg)
+
 ### Metadata
 * Author: **Bastien Laville**
 * Released: June 2015
